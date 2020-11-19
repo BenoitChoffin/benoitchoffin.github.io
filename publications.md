@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Conference papers
 
-* **Benoît Choffin**, Fabrice Popineau, Yolaine Bourda and Jill-Jênn Vie. "DAS3H: Modeling Student Learning and Forgetting for Optimally Scheduling Distributed Practice of Skills". In: *Proceedings of the Twelfth International Conference on Educational Data Mining (EDM 2019)*. Best Full Paper Award. 2019, pp. 29--38. <https://arxiv.org/abs/1905.06873>
+* **Benoît Choffin**, Fabrice Popineau, Yolaine Bourda and Jill-Jênn Vie. "DAS3H: Modeling Student Learning and Forgetting for Optimally Scheduling Distributed Practice of Skills". In: *Proceedings of the Twelfth International Conference on Educational Data Mining (EDM 2019)*. **Best Full Paper Award**. 2019, pp. 29--38. <https://arxiv.org/abs/1905.06873>
 * **Benoît Choffin** and Naonori Ueda. "Scaling Bayesian Optimization up to Higher Dimensions: a Review and Comparison of Recent Algorithms". In: *2018 IEEE 28th International Workshop on Machine Learning for Signal Processing (MLSP)*. IEEE. 2018, pp. 1-6.
 
 ## Posters
