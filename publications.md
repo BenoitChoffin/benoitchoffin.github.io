@@ -16,6 +16,3 @@ permalink: /publications/
 ## Other publications
 * **Benoît Choffin**, Fabrice Popineau, Yolaine Bourda and Jill-Jênn Vie. "DAS3H: Modeling Student Learning and Forgetting for Optimally Scheduling Distributed Practice of Skills". In: *Paris-Saclay Junior Conference on Data Science and Engineering*. 2019.
 * Yolaine Bourda, Claude Chaudet, **Benoît Choffin**, Jeanne Parmentier, Fabrice Popineau and Jill-Jênn Vie. "Tuteurs intelligents: boucler la boucle". In: *Journée "IA pour l'Éducation", PFIA 2018*. 2018. <https://hal.archives-ouvertes.fr/hal-02197685v1>
-
-## Popularization of science
-* **Benoît Choffin**, Fabrice Popineau and Yolaine Bourda. "Modeling Student Learning and Forgetting for Optimally Scheduling Skill Review". In: *ERCIM News, 2020(120)*. 2020, pp. 12-13. <https://ercim-news.ercim.eu/en120/special/modelling-student-learning-and-forgetting-for-optimally-scheduling-skill-review>
